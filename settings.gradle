@@ -1,0 +1,3 @@
+rootProject.name = "tauseefutils"
+include ':app'
+include ':tauseeflib'
