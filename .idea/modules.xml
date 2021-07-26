@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WordExtraction.iml" filepath="$PROJECT_DIR$/.idea/WordExtraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tauseefutils.iml" filepath="$PROJECT_DIR$/.idea/modules/tauseefutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tauseefutils.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tauseefutils.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tauseeflib/tauseefutils.tauseeflib.iml" filepath="$PROJECT_DIR$/.idea/modules/tauseeflib/tauseefutils.tauseeflib.iml" />
     </modules>
   </component>
 </project>

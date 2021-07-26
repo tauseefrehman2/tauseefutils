@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./tauseeflib/libs/poishadow-all.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tauseeflib/libs/poishadow-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

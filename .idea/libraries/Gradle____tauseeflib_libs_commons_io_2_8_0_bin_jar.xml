@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./tauseeflib/libs/commons-io-2.8.0-bin.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tauseeflib/libs/commons-io-2.8.0-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

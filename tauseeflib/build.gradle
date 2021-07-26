@@ -42,4 +42,7 @@ dependencies {
 
     def multidex_version = "2.0.1"
     implementation "androidx.multidex:multidex:$multidex_version"
+
+    //PDF reader
+    implementation 'com.itextpdf:itext-pdfa:5.5.5'
 }
